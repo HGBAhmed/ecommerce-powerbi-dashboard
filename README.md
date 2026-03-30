@@ -28,6 +28,6 @@ Conception d'un tableau de bord interactif comprenant :
 
 ## 📊 Aperçu du Dashboard
 
-![Dashboard Olist](dashboard_olist.png)
+![Dashboard Olist](Dashboard_Ecommerce_Olist.png)
 
 > **Note :** Le fichier `.pbix` complet ainsi que le script SQL/Python de préparation des données sont disponibles dans ce dépôt.
